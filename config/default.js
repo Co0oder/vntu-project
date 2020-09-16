@@ -1,8 +1,8 @@
 module.exports = {
-    PGHOST : "ec2-46-137-124-19.eu-west-1.compute.amazonaws.com",
-    PGUSER : "qzbkbrihygqfra",
-    PGPASSWORD : "12e2d2325f7015236562f165cd62adae16bd0e7eaebf3c880017bc5aba1ccbe4",
-    PGDATABASE : "d7p0u1v0m7mg29",
+    PGHOST : "ec2-50-19-26-235.compute-1.amazonaws.com",
+    PGUSER : "leuieotcrserrg",
+    PGPASSWORD : "59097e46bb435e32c73c1411982227ea74efc2881ca6d7bfbc68bc03fa0c7779",
+    PGDATABASE : "d6blbel63i54vb",
     PGPORT : 5432,
     DEBAG : true,
 }
